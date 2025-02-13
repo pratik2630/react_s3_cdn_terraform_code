@@ -1,0 +1,5 @@
+bucket_name       = "react-static-website-test-new"
+versioning_status = "Enabled"
+build_path        = "./build"
+bucket_permission = "false"
+enable_cloudfront = "false"
